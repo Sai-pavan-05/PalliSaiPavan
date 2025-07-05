@@ -16,7 +16,7 @@
 - 🔭 Currently working on: Small-scale web development and Cyber Security projects
 - 🌱 Learning: `Java`, `JavaScript`, `React.js`
 - 💡 Known for: Clean logic, curiosity, and consistency
-- 💬 Ask me about: Python, C, HTML, CSS
+- 💬 Ask me about: Python, C, HTML, CSS, Git, Linux
 - 📫 Let's connect below 👇
 
 ---
