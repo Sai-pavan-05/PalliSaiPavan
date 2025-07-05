@@ -27,16 +27,6 @@
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PalliSaiPavan&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalliSaiPavan&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
 📫 Connect With Me
 
 <p align="center">
